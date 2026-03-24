@@ -1,0 +1,9 @@
+{
+  "name": "geo-tracker",
+  "version": "1.0.0",
+  "description": "A lightweight geolocation tracking library",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  }
+}
